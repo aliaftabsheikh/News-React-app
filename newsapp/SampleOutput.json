@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": "BBC Sport",
+            "title": "'I don't fight the responsibility' - meet South Africa's cricketing history-maker",
+            "description": "Temba Bavuma has already made history by becoming South Africa captain. Now he is chasing more at the T20 World Cup.",
+            "url": "http://www.bbc.co.uk/sport/cricket/58959830",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/31F8/production/_121129721_temba_bavuma_graphic_getty.jpg",
+            "publishedAt": "2021-10-25T22:07:32.216436Z",
+            "content": "<table><tr><th>ICC Men's T20 World Cup: South Africa v West Indies</th></tr>\r\n<tr><td>Venue: Dubai International Cricket Stadium Date: 26 October Time: 11:00 BST</td></tr><tr><td>Coverage: BBC Radio … [+6026 chars]"
+        },
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "Khanyiso Tshwaku",
+            "title": "2015 match-fixer Jean Symes criminally charged, says anti-corruption chief",
+            "description": "Former Lions cricketer Jean Symes has been charged by the Hawks with perjury for his role in the 2015/16 Ram Slam match-fixing scandal, Cricket SA's Anti-Corruption Unit chief Louis Cole confirmed.",
+            "url": "https://www.news24.com/sport/Cricket/Proteas/2015-match-fixer-jean-symes-criminally-charged-says-anti-corruption-chief-20211025",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/11721/51632180f0ba44d6b4c1874e9c882908.jpg",
+            "publishedAt": "2021-10-25T20:34:42+00:00",
+            "content": "<ul><li>Former Lions cricketer Jean Symes has been charged with perjury.</li><li>This was revealed by Louis Cole at the Cricket South Africa Cricket for Social Justice and National-building hearings … [+1783 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-in",
+                "name": "Google News (India)"
+            },
+            "author": "PTI",
+            "title": "PM Imran Khan highlights need for improving Pakistan-India ties; takes a dig at India over T20 World Cup victory",
+            "description": "Cricket News: Pakistan Prime Minister Imran Khan on Monday highlighted the need for improving ties with India, but cheekily said that after his country's victory ag",
+            "url": "https://timesofindia.indiatimes.com/sports/cricket/icc-mens-t20-world-cup/pm-imran-khan-highlights-need-for-improving-pakistan-india-ties-takes-a-dig-at-india-over-t20-world-cup-victory/articleshow/87262907.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-87262892,width-1070,height-580,imgsize-19438,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-10-25T15:49:00+00:00",
+            "content": "T20 World Cup: Pakistan break India jinx in styleThe 10-wicket win, Pakistan's first in this format and their first victory against India in World Cup in 13 attempts, was engineered with such consumm… [+146 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
