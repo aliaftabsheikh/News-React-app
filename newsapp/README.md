@@ -13,3 +13,17 @@
 <img src='./assets/M-news-1.png.png' />
 
 
+## Run Locally
+
+- Run this command to git clone. 
+
+         https://github.com/aliaftabsheikh/News-React-app.git
+
+- You are now in the dev environment and you can play around
+
+## Technologies Use
+
+- HTML5
+- CSS3
+- React js (Frontend)
+- API (To fetch latest news)
